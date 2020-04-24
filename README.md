@@ -16,6 +16,12 @@ In case you are a total beginner and have no prior experience with python, the f
 ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WahlerP/csfundamentals-hsg/blob/master/OOP.ipynb))
 
 ---
+## Data Science
+
+- Basics ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WahlerP/csfundamentals-hsg/blob/master/Data_Science.ipynb))
+- Data Wrangling with Pandas ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WahlerP/csfundamentals-hsg/blob/master/Data_Wrangling_with_Pandas.ipynb))
+
+---
 
 ## Python Advanced
 If you know the basics of Python and want to learn more about advanced topics such as list comprehensions, map(), OOP, lambda functions or Numpy the following notebook might be interesting. This is especially interesting for revising the contents of the Data Science part of the lecture:
