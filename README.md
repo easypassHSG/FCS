@@ -1,5 +1,8 @@
 # Fundamentals of Computer Science
 
+Welcome to the official EasyPass GitHub page of the course Fundamentals of Computer Science!
+As you probably have already experienced, coding is not easy and there is no other way around it than praciting.
+
 Note: To access/run the notebooks just click on the respective Google Colab links. You can also directly clone the notebooks from this repository if you wish.
 
 ## Coding Crash Course
