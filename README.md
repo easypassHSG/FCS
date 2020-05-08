@@ -3,7 +3,7 @@
 Welcome to the **official EasyPass GitHub page** of the course Fundamentals of Computer Science! <br><br>
 As you probably have already experienced by yourself, coding is not easy and definitely not intuitive at first. However, since there is no other way around the exam, this compilation of notebooks provides an interactive overview and helps you familiarize yourself with exam relevant material.<br><br>
 
-
+How should you proceed..? We strongly encourage you to focus on understanding rather than learning by heart.  Therefore, feel free to adapt the code and expertiment to get the most out of it.
 
 Note: To access/run the notebooks just click on the respective Google Colab links. You can also directly clone the notebooks from this repository if you wish.
 
