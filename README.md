@@ -3,7 +3,7 @@
 Welcome to the **official EasyPass GitHub page** of the course Fundamentals of Computer Science! <br><br>
 As you probably have already experienced by yourself, coding is not easy and definitely not intuitive at first. However, since there is no other way around it, this compilation of notebooks provides an interactive overview of essenential concepts and helps you to familiarize yourself with the exam relevant material. Are you a complete beginner? Don't worry, we provide material ranging from Python basics up to advanced Machine Learning.<br>
 
-How should you proceed..? We strongly encourage you to focus on understanding rather than learning by heart.  Therefore, feel free to adapt and expertiment with the code to get the most out of it. **Remember: Practice makes perfect!**
+How should you proceed..? We strongly encourage you to focus on understanding rather than learning by heart.  Therefore, feel free to run, adapt and expertiment with the code to get the most out of it. **Remember: Practice makes perfect!**
 
 Note: To access/run the notebooks just click on the respective Google Colab links. You can also directly clone the notebooks from this repository if you wish.
 
