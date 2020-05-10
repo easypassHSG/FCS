@@ -1,3 +1,7 @@
+![Let's Get Coding](https://github.com/easypassHSG/FCS/blob/master/Resources/EasyPass_black.png?raw=true)
+
+
+
 # Fundamentals of Computer Science
 
 Welcome to the **official EasyPass GitHub page** of the course Fundamentals of Computer Science! <br><br>
