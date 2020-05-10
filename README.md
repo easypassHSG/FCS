@@ -29,12 +29,12 @@ In the following Notebook, we will look at the fundamental data types and operat
 ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WahlerP/csfundamentals-hsg/blob/master/Coding_Crashcourse.ipynb))
 
 
-In case you are a total beginner and have no prior experience with python, the following notebook may be of additional help:
+In case you are a total beginner and have no prior experience with Python, the following notebook may be of additional help:
 ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WahlerP/csfundamentals-hsg/blob/master/code00_Python_Introduction.ipynb))
 
 ---
 ## Introduction to Object Oriented Programming
-With Object-oriented programming (OOP) you organize software design around data, or objects, rather than functions and logic. An object can be defined as a data field that has unique attributes and behavior.<br>
+With Object-oriented programming (OOP) you can organize software around data, or objects, rather than functions and logic. An object is defined as a data field that has unique attributes and behavior.<br>
 The following notebook allows you to apply the theory learnt in the Chapter 3.1.
 ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WahlerP/csfundamentals-hsg/blob/master/OOP.ipynb))
 
