@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="600" height="240" src=https://github.com/easypassHSG/FCS/blob/master/Resources/EasyPass_black.png?raw=true>
+  <img width="600" height="240" src=https://github.com/easypassHSG/FCS/blob/master/Resources/EasyPass_black.svg?raw=true>
 </p>
 
 <p align="center">
