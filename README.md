@@ -32,12 +32,13 @@ In case you are a total beginner and have no prior experience with python, the f
 
 ---
 ## Introduction to Object Oriented Programming
-
+Object-oriented programming (OOP) is a computer programming model that organizes software design around data, or objects, rather than functions and logic. An object can be defined as a data field that has unique attributes and behavior.
+The following notebook allows you to apply the theory learnt in the Chapter 3.1.
 ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WahlerP/csfundamentals-hsg/blob/master/OOP.ipynb))
 
 ---
 ## Data Science
-
+In Chapter 5 we introduced you to Data Science. The following colabs will give you insights into Data Science Basics, the Pandas Library and Data Visualization.
 - Basics ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WahlerP/csfundamentals-hsg/blob/master/Data_Science.ipynb))
 - Data Wrangling with Pandas ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WahlerP/csfundamentals-hsg/blob/master/Data_Wrangling_with_Pandas.ipynb))
 
