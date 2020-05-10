@@ -11,7 +11,9 @@ As you probably have already experienced by yourself, coding is not easy and def
 How should you proceed..? We strongly encourage you to focus on understanding rather than learning by heart.  Therefore, feel free to run, adapt and expertiment with the code to get the most out of it. **Remember: Practice makes perfect!**
 
 
-What is a Google Colab Notebook?... No import, run in browser, sharable, you can edit, warning.. ignore it https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=OwuxHmxllTwN
+What is a Google Colab Notebook? Google Colab provides an easy solution to experiment with your code in your browser. This means there is no need to install anything and colaborating on your codes becomes much easier. A Google Colab bases on Jupyter Notebooks. Basically, a notebook consists of text cells with explanations as well as code cells that can be run by pressing either the play button on press **Shift+ENTER**. Note, if you open our notebooks you can always edit the code without changing the original file.. so you can practice for yourself and can even save your changes in Google Drive. 
+
+... No import, run in browser, sharable, you can edit, warning.. ignore it https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=OwuxHmxllTwN
 Note: To access/run the notebooks just click on the respective Google Colab links. You can also directly clone the notebooks from this repository if you wish.
 
 ## Coding Crash Course
