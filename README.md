@@ -34,7 +34,7 @@ In case you are a total beginner and have no prior experience with python, the f
 
 ---
 ## Introduction to Object Oriented Programming
-Object-oriented programming (OOP) is a computer programming model that organizes software design around data, or objects, rather than functions and logic. An object can be defined as a data field that has unique attributes and behavior.
+With Object-oriented programming (OOP) you organize software design around data, or objects, rather than functions and logic. An object can be defined as a data field that has unique attributes and behavior.<br>
 The following notebook allows you to apply the theory learnt in the Chapter 3.1.
 ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WahlerP/csfundamentals-hsg/blob/master/OOP.ipynb))
 
