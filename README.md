@@ -7,7 +7,7 @@
 
 Welcome to the **official EasyPass GitHub** page for the course Fundamentals of Computer Science! 
 
-As you probably already experienced by yourself, coding is not easy and definitely not intuitive at first. However, since there is no other way around it, this compilation of notebooks provides an interactive overview of essential concepts and helps you to familiarize yourself with the exam relevant material.
+As you probably already experienced, coding is not easy and definitely not intuitive at first. However, since there is no other way around it, this compilation of notebooks provides an interactive overview of essential concepts and helps you to familiarize yourself with the exam relevant material.
 
 **You're a complete beginner?**<br>
 Don't worry, we provide material ranging from Python basics up to advanced Machine Learning.
