@@ -21,7 +21,7 @@ Google Colab provides an easy solution to experiment with your code in your brow
 Note, if you open our notebooks you can always edit the code without changing the original file, allowing you to practice by yourself. You can even save changes to your personal Google Drive. <br><br>
 To access/run the notebooks just click on the respective Google Colab links. If you get the warning  “This notebook was not authored by Google” don’t worry, just press “Run Anyway”.
 
-If you want to know more about Google Colab Notebook, feel free to explore the following notebook provided by Google: https://colab.research.google.com/notebooks/intro.ipynb#scrollTo=OwuxHmxllTwN
+If you want to know more about Google Colab Notebook, feel free to explore the following notebook provided by Google: https://colab.research.google.com/notebooks/intro.ipynb
 
 
 ## Coding Crash Course
