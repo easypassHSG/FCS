@@ -1,9 +1,9 @@
 <p align="center">
-  <img width="600" height="240" src=https://github.com/easypassHSG/FCS/blob/master/Resources/EasyPass_black.svg?raw=true>
+  <img width="600" height="240" src=https://github.com/easypassHSG/FCS/blob/master/Resources/EasyPass_black.png?raw=true>
 </p>
 
 <p align="center">
-  <img width="600" height="240" src=https://raw.githubusercontent.com/easypassHSG/FCS/138c5ba7fb627791fbd640b640bd980de435a0ed/Resources/Logogs_all/EP_text_b.svg
+  <img width="600" height="240" src=https://raw.githubusercontent.com/easypassHSG/FCS/138c5ba7fb627791fbd640b640bd980de435a0ed/Resources/Easypass_black.svg
 >
 </p>
 
