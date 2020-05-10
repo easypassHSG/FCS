@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img width="600" height="240" src=https://raw.githubusercontent.com/easypassHSG/FCS/master/Resources/Easypass_black.svg?raw=true>
+  <img width="550" height="220" src=https://raw.githubusercontent.com/easypassHSG/FCS/master/Resources/Easypass_black.svg?raw=true>
 </p>
 
 
