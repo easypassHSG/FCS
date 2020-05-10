@@ -1,5 +1,8 @@
 ![Let's Get Coding](https://github.com/easypassHSG/FCS/blob/master/Resources/EasyPass_black.png?raw=true)
 
+<p align="center">
+  <img width="460" height="300" src=https://github.com/easypassHSG/FCS/blob/master/Resources/EasyPass_black.png?raw=true>
+</p>
 
 
 # Fundamentals of Computer Science
