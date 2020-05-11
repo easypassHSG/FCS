@@ -13,10 +13,10 @@ Coding is not easy and definitely not intuitive at first. However, since there i
 Don't worry, we provide material ranging from Python basics up to advanced Machine Learning.
 
 
-**How should you proceed?**<br>
+- **How should you proceed?**<br>
 We strongly encourage you to focus on understanding rather than learning by heart. Therefore, feel free to run, adapt and experiment with the code to get the most out of it. **Remember: Practice makes perfect!**<br>
 
-**What is a Google Colab Notebook?** <br> 
+- **What is a Google Colab Notebook?** <br> 
 Google Colab provides an easy solution to experiment with your code in your browser. This means there is no need to install anything and collaborating becomes much easier. A Google Colab bases on Jupyter Notebooks. Basically, a notebook consists of text cells with explanations as well as code cells that can be run by pressing either the play button or **Shift+ENTER**. <br><br>
 *Note*: If you open our notebooks you can always edit the code without changing the original file, allowing you to practice by yourself. You can even save changes to your personal Google Drive. <br><br>
 To access/run the notebooks just click on the respective Google Colab links. If you get the warning  “This notebook was not authored by Google” don’t worry, just press “Run Anyway”.
