@@ -32,9 +32,7 @@ In case you are a total beginner and have no prior experience with Python, the f
 
 
 ## Introduction to Object Oriented Programming
-With Object-oriented programming (OOP) you can organize software around data, or objects, rather than functions and logic. An object is defined as a data field that has unique attributes and behavior.<br>
-The following notebook allows you to apply the theory learnt in the Chapter 3.1.
-([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WahlerP/csfundamentals-hsg/blob/master/OOP.ipynb))
+Object-oriented programming (OOP) you can organize software around data, or objects, rather than functions and logic. For a detailed explanation of the theory, refer to chapter 3.1 of the summary. This notebook will provide a practical example of OOP, which should help you in your understanding of the concept:[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WahlerP/csfundamentals-hsg/blob/master/OOP.ipynb)
 
 
 ## Data Science
@@ -43,16 +41,14 @@ In Chapter 5 we introduced you to Data Science. The following colabs will give y
 - Data Wrangling with Pandas ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WahlerP/csfundamentals-hsg/blob/master/Data_Wrangling_with_Pandas.ipynb))
 - Data Visualization [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WahlerP/csfundamentals-hsg/blob/master/Data_Visualization.ipynb) 
 
+---
+## Miscellaneous
+- If you know the basics of Python and want to learn more about advanced topics such as list comprehensions, map(), OOP, lambda functions or Numpy the following notebook might be interesting. This is especially interesting for revising the contents of the Data Science part of the lecture:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WahlerP/csfundamentals-hsg/blob/master/code02_Python_4_DS.ipynb)
 
-## Python Advanced
-If you know the basics of Python and want to learn more about advanced topics such as list comprehensions, map(), OOP, lambda functions or Numpy the following notebook might be interesting. This is especially interesting for revising the contents of the Data Science part of the lecture:
-([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WahlerP/csfundamentals-hsg/blob/master/code02_Python_4_DS.ipynb))
+- Pandas and especially pandas' dataframe module is one of the fundamental libraries for data science and machine learning. The following notebook will teach you everything that you need to know (and more) on this topic.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WahlerP/csfundamentals-hsg/blob/master/code03_Series_and_DataFrame.ipynb)
 
-
-## More on Pandas
-
-Pandas and especially pandas' dataframe module is one of the fundamental libraries for data science and machine learning. The following notebook will teach you everything that you need to know (and more) on this topic.
-([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WahlerP/csfundamentals-hsg/blob/master/code03_Series_and_DataFrame.ipynb))
 
 
 
