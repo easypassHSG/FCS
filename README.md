@@ -1,7 +1,8 @@
+<a href="https://easypass.shop/shopping/">
 <p align="center">
   <img width="550" height="220" src=https://raw.githubusercontent.com/easypassHSG/FCS/master/Resources/Easypass_black.svg?raw=true>
 </p>
-
+</a>
 
 
 ##### Welcome to the **official EasyPass GitHub** page for the course Fundamentals of Computer Science @ HSG! The following sections include several notebooks which elaborate on the practical aspects of the course. For a refresher on the theory as well as several exam-relevant exercises check out our extensive summary, which is available [Here](https://easypass.shop/shopping) (only in German).
