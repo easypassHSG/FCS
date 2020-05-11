@@ -16,7 +16,7 @@ Don't worry, we provide material ranging from Python basics up to advanced Machi
 
 - **How should you proceed?**<br>
 We strongly encourage you to focus on understanding rather than learning by heart. Therefore, feel free to run, adapt and experiment with the code to get the most out of it. **Remember: Practice makes perfect!** <br>
-In case you are more interested in the theory, EasyPass provides an [**extensive summary**](https://easypass.shop/shopping) of all the exam-relevant theory as well as a multitude of practical exercises that deepen you knowledge. <br>
+In case you are more interested in the theory, EasyPass provides an [**extensive summary**](https://easypass.shop/shopping) of all the exam-relevant theory as well as a multitude of practical exercises to deepen your knowledge. <br>
 
 - **What is a Google Colab Notebook?** <br> 
 Google Colab provides an easy solution to experiment with your code in your browser. This means there is no need to install anything and collaborating becomes much easier. A Google Colab bases on Jupyter Notebooks. Basically, a notebook consists of text cells with explanations as well as code cells that can be run by pressing either the play button or **Shift+ENTER**. <br><br>
