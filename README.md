@@ -27,7 +27,7 @@ In the following Notebook, we will look at the fundamental data types and operat
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WahlerP/csfundamentals-hsg/blob/master/Coding_Crashcourse.ipynb)
 
 
-In case you are a total beginner and have no prior experience with Python, the following notebook may be of additional help:
+In case you are a total beginner and have no prior experience with Python, the following notebook may be of additional help. This notebook is a mirror of the Programiz [tutorial](https://www.programiz.com/python-programming/first-program) the profs assigned before the start of the course :
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WahlerP/csfundamentals-hsg/blob/master/code00_Python_Introduction.ipynb)
 
 
