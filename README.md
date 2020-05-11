@@ -9,7 +9,7 @@
 
 Coding is not easy and definitely not intuitive at first. However, since there is no other way around it, this compilation of notebooks provides an interactive overview of essential concepts and helps you to familiarize yourself with the exam relevant material.
 
--**You're a complete beginner?**<br>
+- **You're a complete beginner?**<br>
 Don't worry, we provide material ranging from Python basics up to advanced Machine Learning.
 
 
