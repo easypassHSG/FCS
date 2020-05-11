@@ -32,7 +32,7 @@ In case you are a total beginner and have no prior experience with Python, the f
 
 
 ## Introduction to Object Oriented Programming
-Object-oriented programming (OOP) you can organize software around data, or objects, rather than functions and logic. For a detailed explanation of the theory, refer to chapter 3.1 of the summary. This notebook will provide a practical example of OOP, which should help you in your understanding of the concept:[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WahlerP/csfundamentals-hsg/blob/master/OOP.ipynb)
+With Object-oriented programming (OOP) you can organize software around data, or objects, rather than functions and logic. For a detailed explanation of the theory, refer to chapter 3.1 of the summary. This notebook will provide a practical example of OOP, which should help you in your understanding of the concept:[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WahlerP/csfundamentals-hsg/blob/master/OOP.ipynb)
 
 
 ## Data Science
