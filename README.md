@@ -24,32 +24,32 @@ To access/run the notebooks just click on the respective Google Colab links. If 
 
 
 ## Introduction to Python
-In the following Notebook, we will look at the fundamental data types and operations of Python. This can be used as a quick refresher before tackling further problems:
+In the following Notebook, we will look at the fundamental data types and operations of Python. This can be used as a quick refresher before tackling further problems: <br>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WahlerP/csfundamentals-hsg/blob/master/Coding_Crashcourse.ipynb)
 
 
-In case you are a total beginner and have no prior experience with Python, the following notebook may be of additional help. This notebook is a mirror of the Programiz [tutorial](https://www.programiz.com/python-programming/first-program) the profs assigned before the start of the course :
+In case you are a total beginner and have no prior experience with Python, the following notebook may be of additional help. This notebook is a mirror of the Programiz [tutorial](https://www.programiz.com/python-programming/first-program) the profs assigned before the start of the course: <br>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WahlerP/csfundamentals-hsg/blob/master/code00_Python_Introduction.ipynb)
 
 
 ## Introduction to Object Oriented Programming
-With Object-oriented programming (OOP) you can organize software around data, or objects, rather than functions and logic. For a detailed explanation of the theory, refer to chapter 3.1 of the summary. This notebook will provide a practical example of OOP, which should help you in your understanding of the concept:[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WahlerP/csfundamentals-hsg/blob/master/OOP.ipynb)
+With Object-oriented programming (OOP) you can organize software around data, or objects, rather than functions and logic. For a detailed explanation of the theory, refer to chapter 3.1 of the summary. This notebook will provide a practical example of OOP, which should help you in your understanding of the concept: <br>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WahlerP/csfundamentals-hsg/blob/master/OOP.ipynb)
 
 
 ## Data Science
 In Chapter 5 we introduced you to Data Science. The following colabs will give you insights into Data Science Basics, the Pandas Library and Data Visualization. Since the exam will likely cover these topics, we highly advice you to go through the three notebooks.
-- Basics ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WahlerP/csfundamentals-hsg/blob/master/Data_Science.ipynb))
-- Data Wrangling with Pandas ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WahlerP/csfundamentals-hsg/blob/master/Data_Wrangling_with_Pandas.ipynb))
-- Data Visualization [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WahlerP/csfundamentals-hsg/blob/master/Data_Visualization.ipynb) 
+- Basics <br>([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WahlerP/csfundamentals-hsg/blob/master/Data_Science.ipynb))
+- Data Wrangling with Pandas <br> ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WahlerP/csfundamentals-hsg/blob/master/Data_Wrangling_with_Pandas.ipynb))
+- Data Visualization <br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WahlerP/csfundamentals-hsg/blob/master/Data_Visualization.ipynb) 
 
 ---
 ## Miscellaneous
-- If you know the basics of Python and want to learn more about advanced topics such as list comprehensions, map(), OOP, lambda functions or Numpy the following notebook might be interesting. This is especially interesting for revising the contents of the Data Science part of the lecture:
+- If you know the basics of Python and want to learn more about advanced topics such as list comprehensions, map(), OOP, lambda functions or Numpy the following notebook might be interesting. This is especially interesting for revising the contents of the Data Science part of the lecture:<br>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WahlerP/csfundamentals-hsg/blob/master/code02_Python_4_DS.ipynb)
 
-- Pandas and especially pandas' dataframe module is one of the fundamental libraries for data science and machine learning. The following notebook will teach you everything that you need to know (and more) on this topic.
+- Pandas and especially pandas' dataframe module is one of the fundamental libraries for data science and machine learning. The following notebook will teach you everything that you need to know (and more) on this topic.<br>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WahlerP/csfundamentals-hsg/blob/master/code03_Series_and_DataFrame.ipynb)
-- In the chapter on Clustering, we introduced the Expecation Maximization algorithm. Although, not exam-relevant, the following notebook elaborates on the practical implementation of the clustering approach [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WahlerP/csfundamentals-hsg/blob/master/em_notebook.ipynb)
+- In the chapter on Clustering, we introduced the Expecation Maximization algorithm. Although, not exam-relevant, the following notebook elaborates on the practical implementation of the clustering approach <br>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WahlerP/csfundamentals-hsg/blob/master/em_notebook.ipynb)
 
 
 
