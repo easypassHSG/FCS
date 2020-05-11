@@ -23,32 +23,31 @@ To access/run the notebooks just click on the respective Google Colab links. If 
 
 
 ## Introduction to Python
-In the following Notebook, we will look at the fundamental data types and operations of Python. This can be used as a quick refresher before getting into more specific applications:
-([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WahlerP/csfundamentals-hsg/blob/master/Coding_Crashcourse.ipynb))
+In the following Notebook, we will look at the fundamental data types and operations of Python. This can be used as a quick refresher before tackling further problems:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WahlerP/csfundamentals-hsg/blob/master/Coding_Crashcourse.ipynb)
 
 
 In case you are a total beginner and have no prior experience with Python, the following notebook may be of additional help:
-([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WahlerP/csfundamentals-hsg/blob/master/code00_Python_Introduction.ipynb))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WahlerP/csfundamentals-hsg/blob/master/code00_Python_Introduction.ipynb)
 
----
+
 ## Introduction to Object Oriented Programming
 With Object-oriented programming (OOP) you can organize software around data, or objects, rather than functions and logic. An object is defined as a data field that has unique attributes and behavior.<br>
 The following notebook allows you to apply the theory learnt in the Chapter 3.1.
 ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WahlerP/csfundamentals-hsg/blob/master/OOP.ipynb))
 
----
+
 ## Data Science
 In Chapter 5 we introduced you to Data Science. The following colabs will give you insights into Data Science Basics, the Pandas Library and Data Visualization.
 - Basics ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WahlerP/csfundamentals-hsg/blob/master/Data_Science.ipynb))
 - Data Wrangling with Pandas ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WahlerP/csfundamentals-hsg/blob/master/Data_Wrangling_with_Pandas.ipynb))
 - Data Visualization [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WahlerP/csfundamentals-hsg/blob/master/Data_Visualization.ipynb) 
----
+
 
 ## Python Advanced
 If you know the basics of Python and want to learn more about advanced topics such as list comprehensions, map(), OOP, lambda functions or Numpy the following notebook might be interesting. This is especially interesting for revising the contents of the Data Science part of the lecture:
 ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WahlerP/csfundamentals-hsg/blob/master/code02_Python_4_DS.ipynb))
 
----
 
 ## More on Pandas
 
