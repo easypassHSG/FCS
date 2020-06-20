@@ -49,7 +49,7 @@ The following colabs will give you insights into Data Science Basics, the Pandas
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WahlerP/csfundamentals-hsg/blob/master/code02_Python_4_DS.ipynb)
 
 - Pandas and especially pandas' dataframe module is one of the fundamental libraries for data science and machine learning. The following notebook will teach you everything that you need to know (and more) on this topic.<br>
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WahlerP/csfundamentals-hsg/blob/master/code03_Series_and_DataFrame.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EasyPass-HSG/CS/blob/master/Series_and_DataFrame_v2.ipynb)
 - In the chapter on Clustering, we introduced the Expecation Maximization algorithm. Although, not exam-relevant, the following notebook elaborates on the practical implementation of the clustering approach <br>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WahlerP/csfundamentals-hsg/blob/master/em_notebook.ipynb)
 
 
