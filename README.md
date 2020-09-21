@@ -5,7 +5,7 @@
 </a>
 
 
-##### Welcome to the **official EasyPass GitHub** page for the course Fundamentals of Computer Science @ HSG! The following sections include several notebooks which elaborate on the practical aspects of the course. For a tailor-made refresher on the theory as well as several exam-relevant exercises check out our extensive summary, which is available [Here](https://easypass.shop/) (only in German).
+##### Welcome to the **official EasyPass GitHub** page for the course Fundamentals of Computer Science @ HSG! The following sections include several notebooks which elaborate on the practical aspects of the course. For a tailor-made refresher on the theory as well as several exam-relevant exercises check out our extensive summary, which is available [Here](https://easypass.shop/).
 ---
 
 Coding is not easy and definitely not intuitive at first. However, since there is no other way around it, this compilation of notebooks provides an interactive overview of essential concepts and helps you to familiarize yourself with the exam relevant material.
