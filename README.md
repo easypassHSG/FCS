@@ -44,6 +44,17 @@ The following colabs will give you insights into Data Science Basics, the Pandas
 - Data Visualization <br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WahlerP/csfundamentals-hsg/blob/master/Data_Visualization.ipynb) 
 
 ---
+## Assignments
+Below you find all assignments from the last semesters. Please note that they are not exactly the same as your current assignments. However, most cover the same topics and therefore can help you as a guideline to solve your current assignments.
+
+### Assignments Autumn Semester 2019
+
+
+### Assignments Spring Semester 2020
+
+
+
+---
 ## Miscellaneous
 - If you know the basics of Python and want to learn more about advanced topics such as list comprehensions, map(), OOP, lambda functions or Numpy the following notebook might be interesting. This is especially interesting for revising the contents of the Data Science part of the lecture:<br>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WahlerP/csfundamentals-hsg/blob/master/code02_Python_4_DS.ipynb)
