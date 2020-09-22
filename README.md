@@ -1,6 +1,6 @@
 <a href="https://easypass.shop/">
 <p align="center">
-  <img width="550" height="220" src=/Resources/Easypass_black.svg?raw=true>
+  <img width="550" height="220" src=https://easypassresources.web.app/Easypass_black.svg?raw=true>
 </p>
 </a>
 
