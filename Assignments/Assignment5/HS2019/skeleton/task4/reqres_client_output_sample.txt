@@ -1,0 +1,11 @@
+# Retrieve users from Reqres
+User[1] George Bluth <george.bluth@reqres.in>
+User[2] Janet Weaver <janet.weaver@reqres.in>
+User[3] Emma Wong <emma.wong@reqres.in>
+User[4] Eve Holt <eve.holt@reqres.in>
+User[5] Charles Morris <charles.morris@reqres.in>
+User[6] Tracey Ramos <tracey.ramos@reqres.in>
+
+# Create a new user on Reqres
+A new user is created at 2019-10-15T09:13:08.323Z:
+User[33] John Smith <jsmith@example.com> 
