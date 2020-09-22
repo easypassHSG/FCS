@@ -24,6 +24,16 @@ Google Colab provides an easy solution to experiment with your code in your brow
 To access/run the notebooks just click on the respective Google Colab links. If you get the warning  “This notebook was not authored by Google” don’t worry, just press “Run Anyway”.<br>If you want to know more about Google Colab Notebook, feel free to explore [this notebook](https://colab.research.google.com/notebooks/intro.ipynb) provided by Google.
 
 
+---
+
+
+
+<div align="center"><p><strong>⬇️⬇️⬇️ Start here ⬇️⬇️⬇️</strong></p></div>
+
+
+<div align="center">The derogatory term “scrub” means several different things. One definition is someone (especially a game player) who is not good at something (especially a game). By this definition, we all start out as scrubs, and there is certainly no shame in that. I mean the term differently, though. A scrub is a player who is handicapped by self-imposed rules that the game knows nothing about. A scrub does not play to win.</div>
+
+
 ## Introduction to Python
 In the following Notebook, we will look at the fundamental data types and operations of Python. This can be used as a quick refresher before tackling further problems: <br>
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WahlerP/csfundamentals-hsg/blob/master/Coding_Crashcourse.ipynb)
