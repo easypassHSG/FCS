@@ -53,12 +53,10 @@ The following colabs will give you insights into Data Science Basics, the Pandas
 
 ---
 ## Assignments
-Below you find all assignments from the last semesters. Please note that they are not exactly the same as your current assignments. However, most cover the same topics and therefore can help you as a guideline to solve your current assignments.
-
-### Assignments Autumn Semester 2019
+Below you find assignments from the last courses. Please note that they are not exactly the same as your current assignments. However, most cover the same topics and therefore can help you as a guideline to solve your current assignments and prepare for the exam.
 
 
-### Assignments Spring Semester 2020
+You can find the assignments [here](Assignments/HS2019).
 
 
 
