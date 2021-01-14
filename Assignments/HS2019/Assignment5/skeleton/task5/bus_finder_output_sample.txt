@@ -1,6 +1,0 @@
-# Find th next bus from St. Gallen, Bahnhof to St. Gallen, Uni/Dufourstrasse
-[VBSG #5] 14:49:00->14:49:00
-[VBSG #5] 14:59:00->14:59:00
-[VBSG #5] 15:09:00->15:09:00
-[VBSG #5] 15:19:00->15:19:00
-[VBSG #5] 15:29:00->15:29:00
