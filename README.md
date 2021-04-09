@@ -51,13 +51,6 @@ The following colabs will give you insights into Data Science Basics, the Pandas
 - Data Wrangling with Pandas <br> ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WahlerP/csfundamentals-hsg/blob/master/Data_Wrangling_with_Pandas.ipynb))
 - Data Visualization <br> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/WahlerP/csfundamentals-hsg/blob/master/Data_Visualization.ipynb) 
 
----
-## Assignments
-Below you find assignments from the last courses. Please note that they are not exactly the same as your current assignments. However, most cover the same topics and therefore can help you as a guideline to solve your current assignments and prepare for the exam.
-
-
-You can find the assignments [here](Assignments/HS2019).
-
 
 
 ---
