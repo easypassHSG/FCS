@@ -11,10 +11,10 @@
 
 
 
-<div align="center"><p><strong>⬇️⬇️⬇️ [Click below to get started!](https://wahlerp.github.io/) ⬇️⬇️⬇️</strong></p></div>
+<div align="center"><p><strong>⬇️⬇️⬇️ Click below to get started! ⬇️⬇️⬇️</strong></p></div>
 
 <p align="center">
-    # [EasyPass Coding Crashcourse](https://wahlerp.github.io/)
+  <a href="https://wahlerp.github.io/">EasyPass Coding Crashcourse</a>
 </p>
 
 
