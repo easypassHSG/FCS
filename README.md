@@ -5,7 +5,7 @@
 </a>
 
 
-##### Welcome to the **official EasyPass GitHub** page for the course Fundamentals of Computer Science @ HSG! Please note that we have updated the Crashcourse and moved it to a new site, which can be found below.
+##### Welcome to the **official EasyPass GitHub** page! Please note that we have updated the Crashcourse and moved it to a new site, which can be found below.
 
 ---
 
