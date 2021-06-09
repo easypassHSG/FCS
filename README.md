@@ -14,7 +14,7 @@
 <div align="center"><p><strong>⬇️⬇️⬇️ Click below to get started! ⬇️⬇️⬇️</strong></p></div>
 
 <p align="center">
-  <a href="https://wahlerp.github.io/">EasyPass Coding Crashcourse</a>
+  <strong><a href="https://wahlerp.github.io/">EasyPass Coding Crashcourse</a></strong>
 </p>
 
 
